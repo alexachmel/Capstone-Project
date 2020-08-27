@@ -23,4 +23,4 @@ Sklearn https://scikit-learn.org/stable/<br>
 
 The main results of this project can be found at the post at Medium:
 
-https://medium.com/@alexa.chmel/why-you-can-never-become-a-data-scientist-7772df71ec4f?sk=df0e1ad9b9819d9e3ce40a863efbf909
+https://medium.com/@alexa.chmel/identify-customer-segments-7fa73e3c1386?sk=02f63f183284a63279f4cd59a36d6054
