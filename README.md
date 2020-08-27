@@ -17,7 +17,7 @@ Sklearn https://scikit-learn.org/stable/<br>
 
 ### An explanation of the files
 1. Arvato Project Workbook.ipynb<br>
-2. Arvato Project Workbook.pdf # notebook copy in .pdfbr>
+2. Arvato Project Workbook.pdf # notebook copy in .pdf<br>
 3. DIAS Information Levels - Attributes 2017.xlsx # top-level list of attributes and descriptions, organized by informational category<br>
 4. DIAS Attributes - Values 2017.xlsx # detailed mapping of data values for each feature in alphabetical order<br>
 5. Figures # folder with figures from notebook<br>
