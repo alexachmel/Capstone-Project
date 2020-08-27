@@ -16,9 +16,11 @@ Sklearn https://scikit-learn.org/stable/<br>
 3. __Part 3: Kaggle Competition__<br>
 
 ### An explanation of the files
-1. DIAS Information Levels - Attributes 2017.xlsx # top-level list of attributes and descriptions, organized by informational category<br>
-2. DIAS Attributes - Values 2017.xlsx # detailed mapping of data values for each feature in alphabetical order<br>
-3. Figures # folder with figures from notebook<br>
+1. Arvato Project Workbook.ipynb<br>
+2. Arvato Project Workbook.pdf # notebook copy in .pdfbr>
+3. DIAS Information Levels - Attributes 2017.xlsx # top-level list of attributes and descriptions, organized by informational category<br>
+4. DIAS Attributes - Values 2017.xlsx # detailed mapping of data values for each feature in alphabetical order<br>
+5. Figures # folder with figures from notebook<br>
 
 
 The main results of this project can be found at the post at Medium:
